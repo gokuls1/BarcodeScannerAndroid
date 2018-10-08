@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CA</string>
+    <string name="scan">Scan</string>
+    <string name="kumaravel_and_company">Kumaravel And Company</string>
+    <string name="send">Send</string>
+    <string name="button">Button</string>
+</resources>
